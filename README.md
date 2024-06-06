@@ -1,4 +1,5 @@
 ![icon](https://github.com/K0K0SHA/word_counter_context_widget/assets/92905002/00bab33e-4ac2-47f2-8ffb-4a0fc2233fe2)
+By K0K0$H@
 
 #word_counter_context_widget
 Word and character counter context widgets intended to work either with Firefox, Chromium, and Chrome. It appears in the right-click Context menu.
@@ -18,5 +19,3 @@ git clone https://github.com/K0K0SHA/word_counter_context_widget/
 0. clone the repo
 git clone https://github.com/K0K0SHA/word_counter_context_widget/
 1. UNDER CONSTRUCTION
-
-By K0K0$H@
