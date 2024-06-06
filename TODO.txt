@@ -1,1 +1,4 @@
-TODO: start project
+The tasks will be different by browser (start w/ FF, then Chromium)
+
+Context Menu FF Resource Link:
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Context_menu_items
