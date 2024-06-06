@@ -3,3 +3,9 @@ The tasks will be different by browser (start w/ FF, then Chromium)
 Context Menu FF Resource Links:
 https://support.mozilla.org/en-US/questions/1279418
 https://stackoverflow.com/questions/4909167/how-to-add-a-custom-right-click-menu-to-a-webpage
+https://www.reddit.com/r/firefox/comments/7dvtw0/guide_how_to_edit_your_context_menu/
+
+FF Browser Toolbox can be enabled, which allows the user to change the Firefox JavaScript code the official way TODO paste link
+source code for context menu for FF can be found here (last updated 6/6/2024): https://searchfox.org/mozilla-release/source/browser/base/content/browser-context.inc
+
+Context Menu Chromium Resource Links:
