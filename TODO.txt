@@ -1,4 +1,5 @@
 The tasks will be different by browser (start w/ FF, then Chromium)
 
-Context Menu FF Resource Link:
+Context Menu FF Resource Links:
 https://support.mozilla.org/en-US/questions/1279418
+https://stackoverflow.com/questions/4909167/how-to-add-a-custom-right-click-menu-to-a-webpage
