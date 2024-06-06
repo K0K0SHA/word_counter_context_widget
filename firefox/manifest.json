@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Custom Context Menu",
+  "version": "1.0",
+  "permissions": ["contextMenus", "activeTab", "storage"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
